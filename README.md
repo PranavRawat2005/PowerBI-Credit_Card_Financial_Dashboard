@@ -5,7 +5,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 
 # Tools Used
 - Power BI
-- microsoft excel
+- Microsoft excel
 - MySql
 
 # Steps
@@ -20,15 +20,15 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
    - Grouped Income and Age into presentable groups
    - Made visualizations from the data
   
-## Insights
+# Insights
 
   * Project Insights- Week 53 (31st Dec)
-# Week-on-Week change:
+## Week-on-Week change:
 •Revenue increased by 28.8%,
 •Total Transaction Amt & Count increased by 35% & 3.4%
 •Customer count increased by 28.3%
 
-# Overview YTD(Year to Date) :
+## Overview YTD(Year to Date) :
 •Overall revenue is 57M
 •Total interest is 8M
 •Total transaction amount is 46M
