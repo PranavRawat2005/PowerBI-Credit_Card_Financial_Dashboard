@@ -35,8 +35,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 •Customer count increased by 28.3%
 
 ## Overview YTD(Year to Date) :
-*Overall revenue is 57M
-*Total interest is 8M
+* Overall revenue is 57M
+* Total interest is 8M
 •Total transaction amount is 46M
 •Male customers are contributing more in revenue 31M, female 26M
 •Blue & Silver credit card are contributing to 93% of overall transactions
