@@ -1,14 +1,14 @@
 # Credit_Card_Financial_Dashboard
 
-1.Project Objective
+# Project Objective
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
 
-2.Tools Used
+# Tools Used
 - Power BI
 - microsoft excel
 - MySql
 
-3. Steps
+# Steps
    - Reformated the date columns from credit card.xls from dd-mm-yyyy to yyyy-mm-dd
    - Made a MySql database called ccdb (credit card data base)
    - Created 2 tables - a) cc_detail b) cust_detail
@@ -20,7 +20,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
    - Grouped Income and Age into presentable groups
    - Made visualizations from the data
   
-4. Insights
+## Insights
 
   * Project Insights- Week 53 (31st Dec)
 # Week-on-Week change:
