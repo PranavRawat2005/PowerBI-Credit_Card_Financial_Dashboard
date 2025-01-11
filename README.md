@@ -17,7 +17,7 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 # Steps
    - Reformated the date columns from credit card.xls from dd-mm-yyyy to yyyy-mm-dd
    - Made a MySql database called ccdb (credit card data base)
-   - Created 2 tables - a) cc_detail b) cust_detail
+   - Created 2 tables -  cc_detail & cust_detail
    - Imported data from the .csv files into MySql using table data import wizard
    - Cleaned the dataset
    - Connected MySql database to Power Bi
