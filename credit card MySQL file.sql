@@ -27,7 +27,7 @@ CREATE TABLE cc_detail (
     Delinquent_Acc VARCHAR(5)
 );
 
--- 2. Created cc_detail table
+-- 2. Created cust_detail table
 
 CREATE TABLE cust_detail (
     Client_Num INT,
